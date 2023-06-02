@@ -11,6 +11,6 @@ This is an Assignement todo list backend application using Django.
       
       
 # Few of the Screenshots of the API's testing in PostMan.
-      ## [Plot](./images/CreateTodo.png)
+      ## [Plot](images/CreateTodo.png)
 
       
