@@ -11,6 +11,23 @@ This is an Assignement todo list backend application using Django.
       
       
 # Few of the Screenshots of the API's testing in PostMan.
-      ## [Plot](images/CreateTodo.png)
+## Register User
+![Plot](./images/Register_AlgoBulls.png)
 
-      
+## Login In User And used it's token for authenticate the api
+![Plot](./images/Login_AlgoBulls.png)
+
+## Create Todos for Logged in User
+![Plot](./images/CreateTodo.png)
+
+## Get All Todos of the user
+![Plot](./images/getAllTodos.png)
+
+## Get Todo 
+![Plot](./images/GetSingleTodo.png)
+
+## Update Todo
+![Plot](./images/updateTodo.png)
+
+## Delete Todo
+![Plot](./images/deleteTodo.png)
